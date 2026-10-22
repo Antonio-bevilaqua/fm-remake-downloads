@@ -4,8 +4,8 @@ Central de downloads das versões de teste do FM Remake para **Windows 10/11 x64
 
 ## Baixar o jogo
 
-- [Instalador Windows](https://github.com/Antonio-bevilaqua/fm-remake-downloads/releases/download/v0.1.0-test.20261022.4/FM-Remake-0.1.0-test.20261022.4-Windows-x64-Setup.exe)
-- [Versão portátil](https://github.com/Antonio-bevilaqua/fm-remake-downloads/releases/download/v0.1.0-test.20261022.4/FM-Remake-0.1.0-test.20261022.4-Windows-x64-Portatil.zip)
+- [Instalador Windows](https://github.com/Antonio-bevilaqua/fm-remake-downloads/releases/download/v0.1.0-test.20261022.5/FM-Remake-0.1.0-test.20261022.5-Windows-x64-Setup.exe)
+- [Versão portátil](https://github.com/Antonio-bevilaqua/fm-remake-downloads/releases/download/v0.1.0-test.20261022.5/FM-Remake-0.1.0-test.20261022.5-Windows-x64-Portatil.zip)
 - [Todas as versões e notas](https://github.com/Antonio-bevilaqua/fm-remake-downloads/releases)
 
 O instalador inclui as dependências do aplicativo. Na versão portátil, extraia a pasta inteira antes de abrir **FM Remake Test.exe**. O jogo funciona offline.
