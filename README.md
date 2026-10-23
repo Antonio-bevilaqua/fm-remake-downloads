@@ -10,6 +10,12 @@ Central de downloads das versões de teste do FM Remake para **Windows 10/11 x64
 
 O instalador inclui as dependências do aplicativo. Na versão portátil, extraia a pasta inteira antes de abrir **FM Remake Test.exe**. O jogo funciona offline.
 
+## Atualizações
+
+[Patch mais recente: 20261022.7](https://github.com/Antonio-bevilaqua/fm-remake-downloads/releases/tag/v0.1.0-test.20261022.7). Quem já instalou atualiza pelo menu **Atualizações** do jogo, sem reinstalar.
+
+O instalador completo acima permanece na versão 20261022.6. Após instalar, atualize pelo próprio jogo. As novas releases contêm somente patches; o pequeno assistente Setup da release .7 é para compatibilidade com o atualizador antigo.
+
 ## Saves
 
 Os saves ficam em `%APPDATA%\FM-Remake-Test\IndexedDB`. As versões instalada e portátil compartilham esses dados. A desinstalação preserva os saves. Os saves do navegador e da demo são separados.
