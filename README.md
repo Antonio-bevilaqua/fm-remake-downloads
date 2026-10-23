@@ -12,9 +12,9 @@ O instalador inclui as dependências do aplicativo. Na versão portátil, extrai
 
 ## Atualizações
 
-[Patch mais recente: 20261022.7](https://github.com/Antonio-bevilaqua/fm-remake-downloads/releases/tag/v0.1.0-test.20261022.7). Quem já instalou atualiza pelo menu **Atualizações** do jogo, sem reinstalar.
+[Patch mais recente: 20261023.1](https://github.com/Antonio-bevilaqua/fm-remake-downloads/releases/tag/v0.1.0-test.20261023.1). Quem já instalou atualiza pelo menu **Atualizações** do jogo, sem reinstalar.
 
-O instalador completo acima permanece na versão 20261022.6. Após instalar, atualize pelo próprio jogo. As novas releases contêm somente patches; o pequeno assistente Setup da release .7 é para compatibilidade com o atualizador antigo.
+O instalador completo acima permanece na versão 20261022.6. Após instalar, atualize pelo próprio jogo. As novas releases contêm somente patches; o pequeno assistente Setup das releases de patch é para compatibilidade com o atualizador antigo.
 
 ## Saves
 
@@ -22,6 +22,6 @@ Os saves ficam em `%APPDATA%\FM-Remake-Test\IndexedDB`. As versões instalada e 
 
 F11 alterna tela cheia. Os executáveis de teste não têm assinatura digital e podem mostrar um aviso do Windows.
 
-Cada release inclui o instalador, o portátil, instruções e hashes SHA-256 para conferir os downloads.
+As releases de patch incluem o pacote incremental assinado, instruções e hashes SHA-256. O instalador completo e o portátil permanecem nos links acima.
 
 Esta versão inclui atualizações incrementais assinadas e duelos em rede local. Quem já possui a versão 20261022.1 pode atualizar pelo menu Atualizações. Versões anteriores exigem instalação manual uma vez. Na LAN, ambos precisam da mesma versão; o anfitrião configura os LP e inicia a partida.
