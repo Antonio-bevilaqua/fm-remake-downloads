@@ -12,7 +12,7 @@ O instalador inclui as dependências do aplicativo. Na versão portátil, extrai
 
 ## Atualizações
 
-[Patch mais recente: 20261024.1](https://github.com/Antonio-bevilaqua/fm-remake-downloads/releases/tag/v0.1.0-test.20261024.1). Quem já instalou atualiza pelo menu **Atualizações** do jogo, sem reinstalar.
+[Patch mais recente: 20261025.1](https://github.com/Antonio-bevilaqua/fm-remake-downloads/releases/tag/v0.1.0-test.20261025.1). Quem já instalou atualiza pelo menu **Atualizações** do jogo, sem reinstalar.
 
 O instalador completo acima permanece na versão 20261022.6. Após instalar, atualize pelo próprio jogo. As novas releases contêm somente patches; o pequeno assistente Setup das releases de patch é para compatibilidade com o atualizador antigo.
 
